@@ -1,0 +1,4 @@
+v1/.venv/
+v1/db/
+v1/scraped_content/
+v1/.env

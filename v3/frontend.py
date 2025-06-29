@@ -15,8 +15,8 @@ Features:
 - Comprehensive error handling
 - Performance monitoring
 
-Author: AI Assistant
-Version: 1.0.0
+Author: Sepehr Masoudizad
+Version: 3.0.0
 Last Updated: 2024
 """
 
@@ -39,7 +39,7 @@ from io import BytesIO
 # Application configuration
 APP_CONFIG = {
     "name": "Yazd University Intelligent Assistant",
-    "version": "1.0.0",
+    "version": "3.0.0",
     "description": "دستیار هوشمند دانشگاه یزد",
     "backend_url": "http://localhost:8000",
     "api_endpoints": {

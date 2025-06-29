@@ -18,8 +18,8 @@ Key Features:
 - Performance metrics and analytics
 - Metadata-based search capabilities
 
-Author: AI Assistant
-Version: 2.1.0
+Author: Sepehr Masoudizad
+Version: 3.0.0
 Last Updated: 2024
 """
 
@@ -68,7 +68,7 @@ dotenv.load_dotenv()
 # Application configuration
 APP_CONFIG = {
     "name": "Yazd University Intelligent Assistant",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "description": "AI-powered assistant for Yazd University queries with enhanced metadata support",
     "host": "0.0.0.0",
     "port": 8000,

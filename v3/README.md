@@ -320,6 +320,6 @@ For support and questions:
 
 ---
 
-**Version**: 2.1.0  
+**Version**: 3.0.0  
 **Last Updated**: 2024  
-**Author**: AI Assistant 
+**Author**: Sepehr Masoudizad 
